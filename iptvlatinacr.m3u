@@ -22,4 +22,29 @@ https://iptvextremecr.com/2022.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0
 http://1:41, 24/6/2018] EVY ANGEL CR:[0:51,25/5/2018] EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream)
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ad1FeCenL._AC_SL1001_.jpg" group-title="INFO",TV DONDE VAS 
-http://iptvlatina.cr-premium_channel=costarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.co
+http://iptvlatina.cr-premium_channel=costarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080",TELE UNO ᴴᴰ
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2023/08/signal_canal_2-2.png" group-title="COSTARICA",CANAL 2 ᴴᴰ
+https://d30230c1j3h08x.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES4-150x84.png",CANAL 4 ᴴᴰ
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
+#EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="EN COSTARICA",CANAL 6 Fᴴᴰ
+https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/medialist_15609871089997455276_hls.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DNkXv0c8Y37y_kIrzhRB9hUrtfJrsibykg&usqp=CAU",CANAL 7 4K
+http://190.83.2.172:8080/play/a02u/17129947.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
