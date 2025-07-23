@@ -1,7 +1,7 @@
 #EXTM3U:2.002,live=https://tv.latinacr.com.es/tvonline_envivo.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b8ef67ca-4776-40e8-9a1e-f54ef3e132af-profile_image-300x300.png",IPTV LATINA.CR PREMIUM
 https://www.facebook.com/61568291954787/videos/1252965276486685
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7BYY1JHe-mgUGkh-uigB1gHaHa?rs=1&pid=ImgDetMain",22-7-25
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7BYY1JHe-mgUGkh-uigB1gHaHa?rs=1&pid=ImgDetMain",24-7-25
 https://iptvextremecr.com/2024.Live/angel-Cr2024/"sugalde/raw/"250584.htrgd/25-0584.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34T-Ur7_n3dDAKf2kkjEQCBMocp8zQU1KANiCJb3uEzjJymV_WEkJvn9H6xfxytbYHMA&usqp=CAU",CANALES-IPTV
 http://iptvcrcostarica-EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
@@ -33,7 +33,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="EN COSTARICA",CANAL 6 Fᴴᴰ
 https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DNkXv0c8Y37y_kIrzhRB9hUrtfJrsibykg&usqp=CAU",CANAL 7 4K
-http://190.83.2.172:8080/play/a02u/73241554.m3u8
+http://190.83.2.172:8080/play/a02u/35404861.m3u8
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png",CANAL 11 4K
 http://200.125.170.120:8000/play/a03s/index.m3u8
 
