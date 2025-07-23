@@ -18,7 +18,7 @@ https://iptvextremecr.com/2022.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.eWyEi42cdcpvN7FCq9AICAHaHa?rs=1&pid=ImgDetMain" group-title="INFO",MUNDO TV DIGITAL
 https://iptvextremecr.com/2022.Live/angel-Cr2022/"sugalde/raw/"250584.htrgd/25-0584.m3u8
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
-#EXTINF:-1 tvg-logo="https://img.freepik.com/foto-gratis/familia-pasando-tiempo-frente-television_23-2149153035.jpg" group-title="INFO",TVFAMILIAR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Q1jktjj28k4O_LgXH-kUswmTO8fi0IGVoKL6dAUbSKOsKcSu1q6AvzKoedXrvaBahoH4O3ftCJk3vTyDyg=s265-w265-h265" group-title="INFO",TVFAMILIAR
 http://1:41, 24/6/2018] EVY ANGEL CR:[0:51,25/5/2018] EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream)
 #EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Ad1FeCenL._AC_SL1001_.jpg" group-title="INFO",TV DONDE VAS 
@@ -34,6 +34,9 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
 https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DNkXv0c8Y37y_kIrzhRB9hUrtfJrsibykg&usqp=CAU",CANAL 7 4K
 http://190.83.2.172:8080/play/a02u/35404861.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DNkXv0c8Y37y_kIrzhRB9hUrtfJrsibykg&usqp=CAU",TELETICA CANAL 7 4k
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png",CANAL 11 4K
 http://200.125.170.120:8000/play/a03s/index.m3u8
 
