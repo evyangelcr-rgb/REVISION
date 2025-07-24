@@ -32,7 +32,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES6-150x84.png" group-title="EN COSTARICA",CANAL 6 Fᴴᴰ
 https://d2qsan2ut81n2k.cloudfront.net/live/02f0dc35-8fd4-4021-8fa0-96c277f62653/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DNkXv0c8Y37y_kIrzhRB9hUrtfJrsibykg&usqp=CAU",CANAL 7 4K
-http://190.83.2.172:8080/play/a02u/70418110.m3u8
+http://190.83.2.172:8080/play/a02u/41512136.m3u8
 #EXTINF:-1 tvg-logo="https://alba-cr-repretel.cdn.mediatiquepress.com/wp-content/uploads/2024/11/LOGOS_CANALES11-150x84.png",CANAL 11 4K
 http://200.125.170.120:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KA2xVDG6XhZgi-5ghxXuarpl_3JGetIOpGn_4Okrpjt8z_Nl5W-rUppWCigqEi_20g0&usqp=CAU",TELESISTEMA CANAL 9 ᴴᴰ
@@ -74,7 +74,7 @@ https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWX2lAWmdtfE1soI8MVA0oDfs7kF4TuF8aQGnt1ja-cNcpTTCO",ELITETV ᴴᴰ
 https://k20.usastreams.com:8081/elitetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,EL SALVADOR
+#EXTINF:-1,ELSALVADOR
 #http://127.0.0.100.checkedby:iptvcat.com
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal11.com.sv/logo11.png",TUTV11 Fᴴᴰ
@@ -119,8 +119,6 @@ https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1,MEXICO 
 #http://125.139.128.132
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Las_Estrellas_2020.png/revision/latest?cb=20200703032920&path-prefix=es",ESTRELLAS CANAL 2 4K
-http://200.60.124.19:29000/play/a01d/index.¿canaltv?-/playlistcr_iptvlatinacr.com.es/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 4K
 #http://190.0.241.181:8000/play/a04q/index.m3u8
 http://181.78.106.127:9000/play/ca012/index.m3u8
@@ -182,11 +180,32 @@ http://190.60.37.154:45000/play/a052/index.m3u8
 http://190.60.37.154:45000/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yE2jJ7IxE4M/Woth2XSZilI/AAAAAAAAAZU/iMmNkbfVY2MLrOZ0VTZRNoesboqnP4kCwCLcBGAs/s1600/cinemax.png",CINEMAX 4K
 http://200.60.124.19:29000/play/a025
-
-
-
-
-
+#EXTINF:-1,BOLIVIA
+#http://1235.19.="128.132
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61198893c50a1632565410228c82d40a.webp",MEGATV ᴴᴰ
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w944188185.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MKxLvM2l7d5DT8kntExbRoIVLYvxVBX788x68sYFajrz3mAH1wHKWoCUX_b8MBil&usqp=CAU",BOLIVISION ᴴᴰ
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/480p.m3u8
+#EXTINF:-1,PERU 
+#http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image87580671255.jpg",Canal 8 CATACCAOSTV 4K
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png",SUPER CANAL 26 ᴴᴰ
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2022/10/naranja-21-03.png",SOLTV ᴴᴰ
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1844633800.m3u8
+#EXTINF:-1 tvg-logo="https://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png",TV COOSMOS Fᴴᴰ
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-antares-en-vivo.jpg",ANTARES TELEVISION ᴴᴰ
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w2094395631.m3u8
+#EXTINF:-1,República Dominicana
+#https://video.wixstatic.com/video/7acae1_bdf3d3c8b8d940438ca1843b00a574bc/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3420-320x180-000000.jpg",READYTV CANAL 6 ᴴᴰ 
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_HNKu8aytnjMHKQEBCq0Pg11YstazGfi58ei65KpXA&s",GH TELEVISION CANAL 10 ᴴᴰ
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcU_LQBmWLeJhke90-up8f9j6fCIEHaCmg5A&usqp=CAU",VALLEVISION CANAL 10 ᴴᴰ
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w152371791.m3u8
 
 
 
